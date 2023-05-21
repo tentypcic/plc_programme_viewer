@@ -9,7 +9,6 @@
   </p>
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Built With](#built-with)
 - [About The Project](#about-the-project)
 - [How To Use](#how-to-use)
@@ -18,16 +17,19 @@
 ## Built With
 This project was bult using these technologies:
  - [HTML](https://en.wikipedia.org/wiki/HTML)
- - [CSS]
- - [JavaScript]
+ - [CSS](https://en.wikipedia.org/wiki/CSS)
+ - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
  - [GIT](https://git-scm.com/)
  
 ## About The Project
-This project is a simple website to help to view plc-programme project.
+Template of a simple website for presenting a PLC project. The template is based on the TIA Portal software.
 
 ## How To Use
+To clone and run this application, you'll need only browser. Edit and modify the website to suit your needs.
 
-To clone and run this application, you'll need FactoryIO and TIA Portal (v16 and later) installed in your computer. 
+    # Clone this repository into your worksapce
+    
+    $ git clone https://github.com/tentypcic/plc_programme_viewer.git
 
 ## License
 
