@@ -8,9 +8,14 @@ body {
 
 .title {
     width: 100%;
-    background: #bbb;
+    background: #39415a;
+    color: white;
     text-align: center;
-    padding: 10px 0;
+}
+
+.title a {
+    text-decoration: none;
+    color: white;
 }
 
 .main {
@@ -40,8 +45,8 @@ body {
 
 .menu li {
     padding-left: 20px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 .menu h4 {
