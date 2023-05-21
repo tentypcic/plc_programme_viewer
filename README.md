@@ -1,5 +1,5 @@
 <h2 align="center">PLC programme viewer</h2>
-<p align="center"><img src="Documentation\images\plc_programme_viewer"></p>
+<p align="center"><img src="documentation\plc_programme_viewer"></p>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
