@@ -1,5 +1,12 @@
 <h2 align="center">PLC programme viewer</h2>
 <p align="center"><img src="documentation\plc_programme_viewer.png"></p>
+  <p align="center">
+    Project website hosted on 000webhostapp.
+    <br />
+    <a href="https://plc-programme-viewer.000webhostapp.com/">View Demo</a>
+    ·
+    <a href="https://github.com/tentypcic/plc_programme_viewer/issues">Report Bug</a>
+  </p>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
