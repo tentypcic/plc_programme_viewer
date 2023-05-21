@@ -30,16 +30,18 @@ body {
 }
 
 .menu .group {
-    margin-top: 5px;
+    margin-top: 2px;
 }
 
 .menu ul {
     list-style-type: none;
-    padding: 0;
+    padding-left: 0;
 }
 
 .menu li {
     padding-left: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
 }
 
 .menu h4 {
