@@ -1,6 +1,6 @@
 let links = document.querySelectorAll('.menu a');
 let viewer = document.querySelector('#pdfViewer');
-viewer.setAttribute('src', 'default.html');
+viewer.setAttribute('src', 'src/default.html');
 
 links.forEach(link => {
     link.addEventListener('click', function(e) {
